@@ -1,4 +1,4 @@
-# Asistente-IA-Soporte-T-cnico-MikroTik
+# Asistente-IA-Soporte-Tecnico-MikroTik
 Un asistente inteligente que permite interactuar con routers MikroTik mediante lenguaje natural, utilizando procesamiento de lenguaje natural (NLP) y modelos de transformers para entender y ejecutar comandos de configuración.
 
 ## 🚀 Características
